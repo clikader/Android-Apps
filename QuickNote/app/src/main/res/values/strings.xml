@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickNote</string>
+    <string name="last_update">Last Update:</string>
+    <string name="file_name">Quicknote.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No history File Found</string>
+    <string name="saved">Note Saved.</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="general">general</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+    <string name="all">all</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="pageFormat">%1$d of %1$d</string>
+</resources>

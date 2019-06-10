@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAll"
+        android:title="@string/all" />
+    <item
+        android:id="@+id/menuBusiness"
+        android:title="@string/business"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menuEntertainment"
+        android:title="@string/entertainment" />
+    <item
+        android:id="@+id/menuGeneral"
+        android:title="@string/general" />
+    <item
+        android:id="@+id/menuScience"
+        android:title="@string/science" />
+    <item
+        android:id="@+id/menuSports"
+        android:title="@string/sports" />
+    <item
+        android:id="@+id/menuTechnology"
+        android:title="@string/technology" />
+</menu>

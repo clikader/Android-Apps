@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="copyright">&#169; 2018, Chunhao Li</string>
+    <string name="versionNumber">Version 1.0</string>
+    <string name="locationNoData">No Data For Location</string>
+    <string name="returned400">Nothing found based on your input (HTTP_400), please check your input and try again.</string>
+    <string name="illegalInput">Illegal City/Zip Code</string>
+</resources>

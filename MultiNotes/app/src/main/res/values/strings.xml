@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="about">About</string>
+    <string name="newNote">new Note</string>
+    <string name="save">Save</string>
+    <string name="aboutName">Multi-Notes</string>
+    <string name="aboutCopyright">&#169; 2018, Chunhao Li</string>
+    <string name="versionNumber">Version 1.0</string>
+    <string name="hintTitle">Title</string>
+    <string name="noteTitle">Title</string>
+    <string name="noteContent">Content</string>
+    <string name="noteLastmodify">Last Modify</string>
+    <string name="filename">Usernotes.json</string>
+    <string name="enconding">UTF-8</string>
+</resources>
